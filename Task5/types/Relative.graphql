@@ -1,0 +1,6 @@
+type Relative {
+    id: ID!
+    relationType: String
+    name: String
+    age: Int
+}
